@@ -1,0 +1,30 @@
+@charset "UTF-8";
+html {
+  font-family: 'Press Start 2P', cursive;
+  color: #00f738;
+    background-color:Black;
+}
+main {
+  margin: auto;
+  width: 1200px;
+  height: 1200px;
+
+  border-color: white;
+  border-width: 5px;
+  border-style:solid;
+  margin-top: 15px;
+
+}
+header {
+  width: 1200px;
+  margin: auto;
+  line-height: 30px;
+  
+
+}
+
+nav a {
+  text-decoration: none;
+  color: #00f738;
+  margin-right: 25px;
+}
